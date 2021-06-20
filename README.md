@@ -1,5 +1,5 @@
 # beat
-2d stack based esolang inspired by befunge/asciidots/length. the pointer starts at one of the characters below
+2d stack based esolang inspired by befunge/asciidots/length. the pointer starts at one of the symbols below
 
 @ - sets direction to right
 
